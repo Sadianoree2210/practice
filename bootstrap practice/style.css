@@ -1,0 +1,34 @@
+/* body{
+    background-color: pink;
+}
+table{
+    border: 3px solid black;
+    width: 20%;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: green;
+} */
+.container{
+    margin-top: 100px;
+}
+.Featured{
+    /* size: 400px; */
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 100px;
+    /* display: flex; */
+    border-style: none;
+}
+.content{
+    /* padding: 50px;
+    margin: 20px; */
+width: 800px;
+border: none;
+border-style: none;
+}
+.content img{
+    width: 350px;
+    height: 300px;
+}
